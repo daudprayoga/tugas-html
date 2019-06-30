@@ -1,0 +1,16 @@
+table, th, td{
+  border: 1px solid black;
+}
+
+td {
+  text-align:inherit;
+
+}
+
+th, td {
+  margin left: 15px;
+}
+
+#oyeah {
+  text-decoration: underline;
+}
